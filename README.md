@@ -6,7 +6,7 @@ A Flask application that would run on Windows server and user’s Bill and Recei
   
 1- All the invoices will be uploaded on server in a folder, zipfile etc... 
 
-2- The uploaded invoices will be scanned by the OCR app and extract following information from the file and put them in a database table
+2- The uploaded invoices will be scanned by the OCR app and extract following information from the file and put them in a database table.
 
   * amount
   * issuer
